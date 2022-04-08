@@ -9,7 +9,7 @@
 #include <QWidget>
 
 constexpr int spinner_fps = 30;
-constexpr QSize spinner_size = QSize(360, 360);
+constexpr QSize spinner_size = QSize(1920, 1080);
 constexpr QSize screenBG_spinner_size = QSize(1920, 1080);
 class TrackWidget : public QWidget  {
   Q_OBJECT
